@@ -5,6 +5,7 @@
 ### 🔗 Links 
 
 - [Website](https://petra.app/)
+- [Twitter](https://twitter.com/PetraWallet)
 - [Discord](https://discord.gg/petrawallet)
 - [Chrome extension](https://chrome.google.com/webstore/detail/petra-aptos-wallet/ejjladinnckdgjemekebdpeokbikhfci)
 - [Feature requests](https://feedback.petra.app)
