@@ -14,7 +14,7 @@ Send the email from an email domain that is less likely to get flagged for spam 
 
 This is an actively monitored account, the team will quickly respond.
 
-If you do not receive a response within 24 hours, please directly followup with the team in [Discord](https://discord.com/invite/petrawallet). by reaching out to anyone with the role “Aptos Labs”.
+If you do not receive a response within 24 hours, please directly followup with the team in [Discord](https://discord.com/invite/petrawallet) by reaching out to anyone with the role “Aptos Labs”.
 
 As above, please DO NOT include attachments or provide detail regarding the security issue in this email.
 
@@ -37,13 +37,13 @@ We are working on a process to accept non-critical bugs that result in heavy neg
 
 ## **Report Details**
 - Summary of the issue
-- Does this relate the definition of a critical issue as defined above? Which point?
+- Does this relate to the definition of a critical issue as defined above? Which point?
 - Clear and complete steps to repro the issue
 - If applicable, proposed solution
 
 ## **Payment of Bug Bounties**
 
-- Bounties are currently awarded on a rolling/weekly basis and paid out within 30 days upon receipt successful KYC and payment contract.
+- Bounties are currently awarded on a rolling/weekly basis and paid out within 30 days upon receipt of successful KYC and payment contract.
 - The APT/USD conversion rate used for payments is the market price of APT (denominated in USD) at 11:59 PM PST the day that both KYC and the payment contract are completed.
 - The reference for this price is the Closing Price given by Coingecko.com on that date given here: [https://www.coingecko.com/en/coins/aptos/historical_data#panel](https://www.coingecko.com/en/coins/aptos/historical_data#panel)
 - Bug bounties that are paid out in APT are locked to the account provided by the reporter with a lockup expiring 12 months from the date of the delivery of APT.
